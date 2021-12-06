@@ -1,0 +1,2 @@
+DATABASE:
+  URL: postgres://nvjpegwplmegbr:bd1fedc5ff33cee4d68d51eca93c72c47b89e2304f2f351299cbe75647b1cf23@ec2-54-155-61-133.eu-west-1.compute.amazonaws.com:5432/da47dlqmt2a3nd

@@ -1,0 +1,3 @@
+export enum BRAND_ERROR {
+  BRAND_NOT_FOUND = 'BRAND_NOT_FOUND',
+}
